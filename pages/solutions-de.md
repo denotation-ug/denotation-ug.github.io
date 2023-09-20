@@ -6,15 +6,6 @@ header:
     image_fullwidth: "header.jpg"
 ---
 
-## Wissenschaftliche Beratung
-
-Wir von Denotation helfen Ihnen, sich in der komplexen Welt der KI zurechtzufinden. Unser Ziel ist es, die Qualität Ihrer Produkte zu maximieren und Ihre Kosten und Umweltauswirkungen zu minimieren.  Wir bieten
-
-* maßgeschneiderte Berichte zu einem KI-Thema Ihrer Wahl;
-* Gezielte Beratung zu den KI-Bedürfnissen Ihrer Organisation.
-
-Bitte kontaktieren Sie uns für weitere Informationen.
-
 
 ## Entwicklung
 
