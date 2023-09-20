@@ -16,9 +16,9 @@ widget2:
   title: "Lösungen"
   url: '/de/solutions/'
   image: widget-2-302x182.jpg
-  text: "Brauchen Sie Hilfe bei der Entscheidung, welches KI-System für Ihr Unternehmen oder Ihre Gemeinde am besten geeignet ist? Wir helfen Ihnen, Ihren Kunden den besten Service zu bieten und gleichzeitig Ihre Kosten und Umweltauswirkungen zu minimieren. Wir bieten Lernmaterial und maßgeschneiderte Beratung."
+  text: "Brauchen Sie Hilfe bei der Entscheidung, welches KI-System für Ihr Unternehmen oder Ihre Gemeinde am besten geeignet ist? Wir helfen Ihnen, Ihren Nutzern den besten Service zu bieten und gleichzeitig Ihre Kosten und Umweltauswirkungen zu minimieren. Wir bieten Lernmaterial und maßgeschneiderte Beratung."
 widget3:
-  title: "Beweisene Expertise"
+  title: "Bewiesene Expertise"
   url: '/de/company/'
   image: widget-3-302x182.jpg
   text: "Heutzutage ist KI allgegenwärtig und es ist schwierig, die Experten von den Newcomern auf diesem Gebiet zu unterscheiden. Denotation baut auf einer 2006 an der Universität Cambridge begonnenen Forschungslinie auf, die von einer internationalen Gemeinschaft von Spezialisten unterstützt wird. Sie können unserem Rat vertrauen."
