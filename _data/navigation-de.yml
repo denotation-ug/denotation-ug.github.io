@@ -1,0 +1,27 @@
+- title: Start
+  url: "/de/"
+  side: left
+
+- title: Kleine KI
+  url: "/de/about/"
+  side: left
+
+- title: Lösungen
+  url: "/de/solutions/"
+  side: left
+
+- title: Unternehmen
+  url: "/de/company/"
+  side: left
+
+- title: Sprache
+  side: right
+  dropdown:
+  - title: English
+    url: "/"
+  - title: Deutsch
+    url: "/de/"
+
+- title: Kontakt
+  url: "/de/contact/"
+  side: right

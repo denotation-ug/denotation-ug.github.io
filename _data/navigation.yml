@@ -1,0 +1,27 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: Small AI
+  url: "/about/"
+  side: left
+
+- title: Solutions
+  url: "/solutions/"
+  side: left
+
+- title: Company
+  url: "/company/"
+  side: left
+
+- title: Language
+  side: right
+  dropdown:
+  - title: English
+    url: "/"
+  - title: Deutsch
+    url: "/de/"
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

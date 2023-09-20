@@ -1,0 +1,52 @@
+---
+layout: default-de
+format: page-fullwidth-de
+---
+
+
+<!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+
+{% if page.image.title %}
+<div class="row t30">
+	<div class="small-12 columns">
+		<img src="{{ site.urlimg }}{{ page.image.title }}" width="90%" alt="{{ page.title | escape_once }}">
+		{% if page.image.caption_url and page.image.caption %}
+		<p class="text-right caption">
+			<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+		</p>
+		{% endif %}
+	</div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+{% endif %}
+
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
+			<header>
+				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+				<h1>{{ page.title }}</h1>
+			</header>
+			
+			<!-- Output author details if some exist. -->
+			{% if author %}
+			    <p>
+				<!-- Personal Info. -->
+				By <a href="{{ author.uri }}">{{ author.name }}</a>
+			    </p>
+			{% endif %}
+
+			{% if page.teaser %}
+			<p class="teaser">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+			{{ content }}
+		</article>
+	</div><!-- /.medium-12.columns -->
+</div><!-- /.row -->
+
+

@@ -1,0 +1,45 @@
+- name: GitHub
+  url: http://github.com/denotation-ug
+  class: icon-github
+  title: Denotation UG on Github
+
+#- name: YouTube
+#  url: https://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+#- name: Twitter
+#  url: https://twitter.com/ah__cl
+#  class: icon-twitter
+#  title: "Research: Computational Approaches to Language and Meaning (CALM)"
+
+#- name: Vimeo
+#  url: https://vimeo.com/user38873733
+#  class: icon-vimeo
+#  title: "AI in the Woods on Vimeo -- all the videos."
+
+#- name: Instagram
+#  url: https://instagram.com/aiinthewoods/
+#  class: icon-instagram
+#  title: "AI in the Woods on Instagram -- video previews."
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
+
+  #  - name: Mixcloud
+  #url: http://www.mixcloud.com/phlow/
+  #class: icon-cloud
+  #title: "Mixe, was sonst?"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
