@@ -6,10 +6,7 @@ header:
     image_fullwidth: header.jpg
 ---
 
-
-Die Denotation UG arbeitet eng mit einem anderen deutschen Unternehmen, PWN UG, zusammen. 
-
-Ihre Zusammenarbeit ist unter dem Namen *Possible Worlds* bekannt.
+Die Denotation UG arbeitet unter dem Namen *Possible Worlds* eng mit einem anderen deutschen Unternehmen, PWN UG, zusammen.
 
 Für alle Anfragen, kontaktieren Sie uns bitte unter <br> *aurelie AT possible-worlds PUNKT xyz*.
 
