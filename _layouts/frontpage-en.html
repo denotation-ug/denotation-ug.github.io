@@ -1,0 +1,37 @@
+---
+layout: default
+format: frontpage
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns t60">
+		<h1>Designing the AI of tomorrow</h1>
+		<p class="teaser" itemprop="description">
+			From information to innovation, we fulfill your AI needs with expertise based on science, not hype. With 17 years of research experience in the field of Natural Language Processing, we provide unbiased advice on language technologies and AI-related applications. Our tech stack is based on open source technologies, ensuring maximal transparency and fostering community engagement.
+		</p>
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
+	{% endif %}
+
+	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
+
+	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% endif %}
+</div><!-- /.row -->
+
+
+
