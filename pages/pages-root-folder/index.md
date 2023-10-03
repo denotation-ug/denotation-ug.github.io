@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: frontpage-en
 header:
   image_fullwidth: header.jpg
 widget1:
