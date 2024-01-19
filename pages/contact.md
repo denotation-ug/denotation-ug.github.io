@@ -12,3 +12,16 @@ Their collaboration is known under the name *Possible Worlds*.
 
 For all inquiries, please contact us at<br> *aurelie AT possible-worlds DOT xyz*.
 
+**Impressum**
+
+Denotation UG
+Geschäftsführerin Aurelie Herbelot
+
+16928 Pritzwalk
+
+Email aurelie AT possible-worlds DOT xyz
+
+Finanzamt Kyritz
+
+
+
