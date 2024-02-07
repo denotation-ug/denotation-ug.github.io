@@ -25,3 +25,7 @@
 - title: Impressum
   url: "/de/impressum/"
   side: right
+
+- title: Datenschutz
+  url: "/de/datenschutz/"
+  side: right
