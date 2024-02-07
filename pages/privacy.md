@@ -1,5 +1,5 @@
 ---
-layout              : page-fullwidth-de
+layout              : page-fullwidth
 title               : "Privacy"
 permalink           : "/privacy/"
 header:
