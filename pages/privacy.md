@@ -6,14 +6,13 @@ header:
     image_fullwidth: header.jpg
 ---
 
-<h1>Datenschutzerklärung</h1>
 <p>Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:</p>
 <p>Aurelie Herbelot
 <br>Denotation UG
 <br>Havelbergerstr. Mesendorf 37
 <br>16928 Pritzwalk
 <br>Deutschland
-<br>contact@denotation.io</p>
+<br>aurelie AT possible-worlds PUNKT xyz</p>
 <h2>Ihre Betroffenenrechte</h2>
 <p>Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:</p>
 <ul>
@@ -69,13 +68,15 @@ header:
 <p>Legen Sie Widerspruch ein, werden wir Ihre personenbezogenen Daten nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.</p>
 <h3>Empfänger eines Widerspruchs</h3>
 <p>Dr. Aurelie Herbelot
-<br>Denotation UG</p>
+<br>Denotation UG
+<br>aurelie AT possible-worlds PUNKT xyz</p>
 <hr>
 <h2>Änderung unserer Datenschutzbestimmungen</h2>
 <p>Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.</p>
 <h2>Fragen an den Datenschutzbeauftragten</h2>
 <p>Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:</p>
-<p>Dr. Aurelie Herbelot</p>
-<br>Denotation UG</p>
+<p>Dr. Aurelie Herbelot
+<br>Denotation UG
+<br>aurelie AT possible-worlds PUNKT xyz</p>
 <p><em>Die Datenschutzerklärung wurde mithilfe der activeMind AG erstellt, den Experten für <a href="https://www.activemind.de/datenschutz/datenschutzbeauftragter/" target="_blank" rel="noopener">externe Datenschutzbeauftragte</a> (Version #2020-09-30).</em></p>
 
